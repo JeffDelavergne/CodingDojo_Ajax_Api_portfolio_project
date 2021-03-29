@@ -1,0 +1,40 @@
+* {
+    font-family: 'VT323', monospace;
+    color: rgb(237, 237, 66);
+}
+
+.wrapper {
+        background-color: black;
+        min-height: 1000px;
+        width: auto;
+        padding: 25px 25px 25px 25px;
+}
+
+.nav {
+    height: 70px;
+    width: 90;
+    margin: 20px auto;
+    border: 1px solid rgb(237, 237, 66);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    font-size: 22px;
+}
+
+select {
+    width: 100px;
+    color: black;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid rgb(237, 237, 66);
+}
+
+li {
+    display: inline-block;
+    font-size: 24px;
+}
